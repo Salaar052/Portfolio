@@ -21,7 +21,7 @@ export const projects: Project[] = [
     technologies: [
       "Flutter", "Node.js", "Express", "MongoDB", "Python",
       "Machine Learning", "Gemini API", "Socket.IO", "JWT", "Cloudinary",
-    ],
+    ], 
     image: "/projects/agricare.jpeg",
     imageAlt: "AgriCare agriculture advisory platform screenshot",
     githubUrl: "https://github.com/Salaar052/Agricare",
